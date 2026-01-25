@@ -1,5 +1,5 @@
 {
-    "name": "noeldemartin/laravel-dusk-mocking",
+    "name": "mattkingshott/laravel-dusk-mocking",
     "description": "Mock facades in Laravel Dusk tests.",
     "keywords": ["laravel", "dusk", "testing"],
     "license": "MIT",
