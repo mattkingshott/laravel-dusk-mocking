@@ -19,7 +19,7 @@ class MockingManager extends Manager
 
         return $config->has('dusk-mocking')
             ? $config['dusk-mocking.driver']
-            : 'cookies';
+            : 'session';
     }
 
     /**
