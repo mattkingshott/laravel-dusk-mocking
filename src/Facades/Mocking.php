@@ -7,6 +7,7 @@ use Illuminate\Support\Facades\Facade;
 /**
  * @see \NoelDeMartin\LaravelDusk\MockingManager
  * @see \NoelDeMartin\LaravelDusk\Driver
+ * @method static void registerFake(string $facade, string $fake)
  */
 class Mocking extends Facade
 {
